@@ -1,4 +1,4 @@
-<h1 align="center" id="title">iNoteBook</h1>
+<h1 align="center" id="title">CloudScriptor</h1>
 
 <p id="description">📝 Welcome to my Notebook web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack! This application provides users with a convenient platform to store, manage, and organize their notes effortlessly.</p>
 
